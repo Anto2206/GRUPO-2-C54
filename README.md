@@ -1,2 +1,3 @@
 # GRUPO-2-C54
-Proyecto final
+Creacion de una pagina de Baile de distintos ritmos
+Integrantes: Antonela Elizabet Ferreyra
